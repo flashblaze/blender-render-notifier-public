@@ -8,7 +8,7 @@ You can find it on [Gumroad](https://neeraj-artx.gumroad.com/l/blender-render-no
 
 ## v1.1.0
 
-- **Feature:** Add an option to disable notification for all frames while rendering animation and only send a notification when the complete animation is rendered.
+- **Feature:** Add an option to disable notification for all frames while rendering animation and only send a notification when the complete animation is rendered. This is extremely useful when you're rendering more than **30 frames** to avoid constant bombardment of notifications.
 
 ## v1.0.0
 

@@ -2,7 +2,7 @@
 
 This is the public repo for releases, discussions, issue tracking etc related to my addon: **Render Notifier**. 
 
-You can find it on [Gumroad](https://neeraj-artx.gumroad.com/l/blender-render-notifier) [Blender Market](https://blendermarket.com/products/render-notifier)
+You can find it on [Gumroad](https://neeraj-artx.gumroad.com/l/blender-render-notifier) as well as [Blender Market](https://blendermarket.com/products/render-notifier)
 
 # Changelog
 
